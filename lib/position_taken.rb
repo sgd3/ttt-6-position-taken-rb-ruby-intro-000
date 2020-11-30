@@ -1,4 +1,4 @@
-def position_taken?(board, index)
+def position_taken?(board, index == 5)
   array[index]
   false
 end
